@@ -1,6 +1,6 @@
 {
   "name": "webpack-enzyme-externals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack config builder that adds enzyme externals to a webpack config",
   "main": "index.js",
   "scripts": {
