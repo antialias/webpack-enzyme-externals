@@ -1,0 +1,24 @@
+{
+  "name": "webpack-enzyme-externals",
+  "version": "1.0.0",
+  "description": "webpack config builder that adds enzyme externals to a webpack config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antialias/webpack-enzyme-externals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antialias/webpack-enzyme-externals/issues"
+  },
+  "homepage": "https://github.com/antialias/webpack-enzyme-externals#readme",
+  "dependencies": {
+    "lodash.assign": "^4.0.9"
+  },
+  "devDependencies": {}
+}
